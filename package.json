@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_the-complete-guide-udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayanpetrow/NodeJS_the-complete-guide-udemy.git"
+  },
+  "author": "Dayan Petrow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dayanpetrow/NodeJS_the-complete-guide-udemy/issues"
+  },
+  "homepage": "https://github.com/dayanpetrow/NodeJS_the-complete-guide-udemy#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
